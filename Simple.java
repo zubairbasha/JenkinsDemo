@@ -6,5 +6,6 @@ class Simple{
      System.out.println("Second Command");
      System.out.println("Third Command");
      System.out.println("Fourth Command");
+     System.out.println("Fifth Commit");
     }  
 }  
