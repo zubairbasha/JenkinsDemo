@@ -4,5 +4,6 @@ class Simple{
      System.out.println("Zubair basha");
      System.out.println("This is Git Hub Push exercise");
      System.out.println("Second Command");
+     System.out.println("Third Command");
     }  
 }  
